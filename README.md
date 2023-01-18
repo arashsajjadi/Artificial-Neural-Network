@@ -6,6 +6,8 @@ I passed the Artificial Neural Network course at Shahid Beheshti University unde
 1. [The first series of assignments](https://github.com/arashsajjadi/Artificial-Neural-Network/blob/main/Assignments/ANN-MA-HW01.pdf):&ensp; &nbsp; &nbsp; &nbsp; &nbsp; [Answers to the first series of assignments](https://github.com/arashsajjadi/Artificial-Neural-Network/blob/main/Assignments/artificial_neural_network_1.pdf)
 2. [The second series of assignments](https://github.com/arashsajjadi/Artificial-Neural-Network/blob/main/Assignments/ANN-MS-HW02.pdf): &nbsp; &nbsp; [Answers to the first second of assignments](https://github.com/arashsajjadi/Artificial-Neural-Network/blob/main/Assignments/artificial_neural_network_2.pdf)
 3. [The third series of assignments](https://github.com/arashsajjadi/Artificial-Neural-Network/blob/main/Assignments/ANN-MS-HW03.pdf): &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Answers to the third series of assignments](https://github.com/arashsajjadi/Artificial-Neural-Network/blob/main/Assignments/artificial_neural_network_3.pdf)
+4. [The forth series of assignments](https://github.com/arashsajjadi/Artificial-Neural-Network/blob/main/Assignments/ANN-MS-HW04.pdf): &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Answers to the forth series of assignments](https://github.com/arashsajjadi/Artificial-Neural-Network/blob/main/Assignments/artificial_neural_network_4.pdf)
+5. [The fifth series of assignments](https://github.com/arashsajjadi/Artificial-Neural-Network/blob/main/Assignments/ANN-MS-HW05.pdf): &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Answers to the fifth series of assignments](https://github.com/arashsajjadi/Artificial-Neural-Network/blob/main/Assignments/artificial_neural_network_5.pdf)
 
 
 

@@ -10,7 +10,7 @@ The project is implemented in Python and requires the following packages to be i
    - Matplotlib
    - Gym
 
-To run the project, simply execute the main.py file. The script will automatically train the agent and display the results in the form of a video.
+To run the project, simply execute the PongVideoOutput.py file. The script will automatically train the agent and display the results in the form of a video.
 Additional Resources
 
 In addition to the "Playing Atari with Deep Reinforcement Learning" paper, the following resources were used in the implementation of this project:
